@@ -1,4 +1,6 @@
-#Microplastics in the Oceans
+# Microplastics in the Oceans
+
+![image](https://user-images.githubusercontent.com/126130532/236372390-8f921057-269a-467b-93a7-29c7a9b13129.png)
 
 This analysis seeks to raise awareness and describe the number of microplastics in the world's oceans.
 
